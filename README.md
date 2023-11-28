@@ -1,6 +1,6 @@
 ### ✧₊⁺ Hi there! ✧₊⁺
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif"/>
+<img align="right" height="250" src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif"/>
 
 ```diff
 @@ ✧₊⁺ About Me ✧₊⁺ @@
