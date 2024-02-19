@@ -1,7 +1,9 @@
 ### ✧₊⁺ Hi there! ✧₊⁺
-I'm Joana, a Information Systems student based in Brazil. ✧₊⁺
+I'm Joana, a Information Systems student based in Brazil.
 
-<img align="right" height="250" src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif"/>
+<div display: inline_block>
+<img align="right" width="250" src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif"/>
+</div>
 
 #
 ### ✧₊⁺ Tech Stack ✧₊⁺
